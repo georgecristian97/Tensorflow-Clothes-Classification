@@ -15,6 +15,8 @@
 
 :gear:Packages that you need:
 
+[Click here for more](https://github.com/georgecristian97/Tensorflow-Clothes-Classification/blob/main/req.txt)
+
 pip install wheel
 
 pip install tensorflow
