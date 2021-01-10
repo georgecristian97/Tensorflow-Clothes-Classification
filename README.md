@@ -19,7 +19,7 @@
 
 
 
-:gear:Packages that you need:
+:gear:	Packages that you need:
 
 [Click here for more](https://github.com/georgecristian97/Tensorflow-Clothes-Classification/blob/main/req.txt)
 
