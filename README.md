@@ -3,13 +3,19 @@
 
 
 
-:hammer:Read with Anaconda Jupyter Notebook:
+![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/Anaconda-Logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/python-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/jupyter-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/tensorflow-logo.png)
 
-[Download PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-:hammer:Edit with:
+
+:book:	Read with Anaconda Jupyter Notebook:
 
 [Anaconda | Individual Edition](https://www.anaconda.com/products/individual)
+
+
+
+:hammer:	Edit with:
+
+[Download PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 
 
